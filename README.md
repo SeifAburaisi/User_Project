@@ -1,0 +1,1 @@
+This is a FastAPI application with a MongoDB database.
